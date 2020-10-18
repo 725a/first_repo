@@ -1,2 +1,2 @@
 # first_repo
-my first project
+始めて作ったレポジトリです
